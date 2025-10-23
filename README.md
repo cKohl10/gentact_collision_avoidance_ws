@@ -3,7 +3,7 @@ Control the FR3 using ROS2 to avoid contacts detected by gentact skins!
 
 
 ## Dependancies
-This ROS2 workspace has been tested with Ubuntu 22.04 and ROS2 Humble
+This ROS2 workspace has been tested with Ubuntu 22.04 and ROS2 Humble. Make sure the Franka ROS2 workspace is installed and sourced before running a controller.
 
 ## Build and run
 ```
