@@ -1,0 +1,9 @@
+[submodule "src/gentact_descriptions"]
+	path = src/gentact_descriptions
+	url = https://github.com/cKohl10/gentact_descriptions.git
+[submodule "src/gentact_ros_tools"]
+	path = src/gentact_ros_tools
+	url = https://github.com/cKohl10/gentact_ros_tools.git
+[submodule "src/hiro_collision_avoidance_ros2"]
+	path = src/hiro_collision_avoidance_ros2
+	url = https://github.com/cKohl10/hiro_collision_avoidance_ros2.git
